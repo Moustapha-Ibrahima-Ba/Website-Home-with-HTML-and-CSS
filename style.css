@@ -8,6 +8,8 @@
 	background-size: cover;
 	height: 100vh;
 }
+
+/* NAVBAR */
 .navbar{
 	position: fixed;
 	height: 80px;
@@ -44,6 +46,8 @@
 	background: red;
 	border-radius: 2px;
 }
+
+/* WRAPPER */
 .wrapper .center{
 	position: absolute;
 	left: 50%;
